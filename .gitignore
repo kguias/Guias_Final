@@ -1,0 +1,4 @@
+laravel-backend/.env
+laravel-backend/vendor/
+react-frontend/.env
+react-frontend/node_modules/
