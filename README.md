@@ -7,19 +7,19 @@ A full-stack web application built with **React.js** (frontend) and **Laravel** 
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### Bar Chart & Pie Chart
-![Charts](screenshots/charts.png)
+![Charts](screenshots/charts.jpg)
 
 ### Attendance Line Chart
-![Attendance](screenshots/attendance.png)
+![Attendance](screenshots/attendance.jpg)
 
 ### Weather Widget
-![Weather](screenshots/weather.png)
+![Weather](screenshots/weather.jpg)
 
 ---
 
