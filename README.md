@@ -181,6 +181,6 @@ Password: password
 
 ## Author
 
-- **Name:** Your Name Here
+- **Name:** Guias, Kyle Adrienne O.
 - **Course:** IT15/L — Integrative Programming
-- **School:** Your School Here
+- **School:** University of Mindanao Visayan Campus
